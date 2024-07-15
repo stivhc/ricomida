@@ -1,0 +1,34 @@
+.navbar-brand {
+  font-family: "lobster";
+}
+
+header {
+  font-family: "cabin", sans-serif;
+  font-style: normal;
+  color: #373a3c;
+}
+
+body {
+  font-family: "cabin", sans-serif;
+  font-style: normal;
+  color: #373a3c;
+}
+
+#nav {
+  background-color: #373a3c;
+  color: white;
+}
+
+.newsletter {
+  background-color: #dc3545;
+  color: white;
+  padding: 100px;
+}
+
+#texto-footer {
+  background-color: #373a3c;
+  font-family: "lobster";
+  font-size: 40px;
+  color: white;
+  padding: 30px;
+}
